@@ -1,2 +1,3 @@
 # nlorusso
-This is for Lab 0
+Nicolas Lo Russo
+OPS435
